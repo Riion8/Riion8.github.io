@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 # Python based weather App
 
 This is an application that will allow the user to enter a location in

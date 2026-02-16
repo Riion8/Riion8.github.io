@@ -2,7 +2,7 @@
 
 title: "Big Data Pipeline in Predictive Modeling"
 
-excerpt: "This is an application that will allow the user to enter a location in the United States and get the current weather and 5-day forecast.<br/><img src='/images/500x300.png'>"
+excerpt: "This is an application that will allow the user to enter a location in the United States and get the current weather and 5-day forecast."
 
 collection: portfolio
 

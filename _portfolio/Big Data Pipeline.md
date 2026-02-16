@@ -2,7 +2,7 @@
 
 title: "Big Data Pipeline in Predictive Modeling"
 
-excerpt: "Use of Big Data technologies in predictive modeling.<br/><img src='/images/500x300.png'>"
+excerpt: "Use of Big Data technologies in predictive modeling."
 
 collection: portfolio
 

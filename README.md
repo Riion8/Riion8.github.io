@@ -38,12 +38,10 @@ Use of Big Data technologies in predictive modeling.
 Predictive modeling of credit card, ATM, and other financial
 transactions to identify fraudulent transactions.
 
-# Place Holder 1
+# Vehicle Price Prediction Model
 
-This place holder will be filled in once the second project has been
-completed
+Attempts to predict the sale price of vehicles based on a number of factors.
 
-# Place Holder 2
+# Loan Approval Prediction Model
 
-This place holder will be filled in once the third project has been
-completed
+Attempts to predict if a loan will be approved with some basic information.

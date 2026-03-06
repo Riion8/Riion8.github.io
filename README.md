@@ -1,4 +1,5 @@
 # Academic Pages
+
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
 # Python based weather App
@@ -11,7 +12,7 @@ the United States and get the current weather and 5-day forecast.
 This is a predictive model using 2023 European credit card data. The
 objective is to predict if a transaction is fraudulent.
 
-# Data Visualization Discussion -- Netflix 
+# Data Visualization Discussion -- Netflix
 
 Discussion of visualization techniques using a data set from Netflix.
 
@@ -35,8 +36,7 @@ Use of Big Data technologies in predictive modeling.
 
 # Financial Fraud Predictive Model
 
-Predictive modeling of credit card, ATM, and other financial
-transactions to identify fraudulent transactions.
+Predictive modeling of credit card, ATM, and other financial transactions to identify fraudulent transactions.
 
 # Vehicle Price Prediction Model
 
@@ -45,3 +45,4 @@ Attempts to predict the sale price of vehicles based on a number of factors.
 # Loan Approval Prediction Model
 
 Attempts to predict if a loan will be approved with some basic information.
+

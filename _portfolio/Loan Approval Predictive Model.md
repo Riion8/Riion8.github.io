@@ -18,29 +18,32 @@ collection: portfolio
 
 
 
-\# Requirements
+# Requirements
 
+To use this repository please ensure that you have Python install with the following modules.
 
+-   Pandas
 
+-   Numpy
 
+-   Sklearn
 
-\[Repository](https://github.com/Riion8/Data-Science-Portfolio)
+-   Xgboost
 
+[Repository](https://github.com/Riion8/Data-Science-Portfolio/tree/main/Loan%20Approval%20Model)
 
+# Contents
 
-\# Contents
+- loanapproval.csv - Raw Data
 
+- LoanApproval.py - Predictive Model
 
+-
 
+-
 
+# Summary
 
-\# Usage
-
-
-
-
-
-\# Summary
 
 
 

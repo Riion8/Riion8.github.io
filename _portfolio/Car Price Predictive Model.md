@@ -18,25 +18,36 @@ collection: portfolio
 
 
 
-\# Requirements
+# Requirements
+To use this repository please ensure that you have Python install with
+the following modules.
+
+-   Pandas
+
+-   Numpy
+
+-   Sklearn
+
+-   Xgboost
+
+
+[Repository](https://github.com/Riion8/Data-Science-Portfolio/tree/main/Car%20Price%20Predictive%20Models)
 
 
 
+# Contents
 
+- Car_Price_Prediction.py - Predictive Model
 
-\[Repository](https://github.com/Riion8/Data-Science-Portfolio/tree/main/Car%20Price%20Predictive%20Models)
+- car_price_prediction_with_missing.csv - Raw Data File
 
+- Car Price Prediction White Paper.docx - Paper discussion the Models and Analysis
 
-
-\# Contents
-
-
-
-
+- Car Price Prediction Presentation.pptx - Recorded Presentation of White Paper
 
 
 
-\# Summary
+# Summary
 
 
 

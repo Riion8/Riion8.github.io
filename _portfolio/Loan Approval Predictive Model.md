@@ -38,12 +38,12 @@ To use this repository please ensure that you have Python install with the follo
 
 - LoanApproval.py - Predictive Model
 
--
+- Loan Approval White Paper.docx - Paper discussion the Models and Analysis
 
--
+- Loan Approval Prediction.pptx - Recorded Presentation of White Paper
 
 # Summary
 
-
+The purpose of this model is to provide a quick and non credit score impacting prediction if a loan application will be approved.
 
 

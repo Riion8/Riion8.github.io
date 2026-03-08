@@ -49,5 +49,5 @@ the following modules.
 
 # Summary
 
-
+The purpose of this model is to attempt to predict the price that a car or vehicle should be sold for.  The intent is to provide a method for a buyer to have confidence that they are getting a fair price and not being over charged.  This model looks at around 2,500 vehicle sales with various data points that describe it.
 
